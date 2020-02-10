@@ -1,5 +1,5 @@
 baseurl = "http://www.example.com"
-title = "Task 2 Project Work"
+title = "Task 2 Project Work - THESE ARE THE CHANGES I MADE IN THE BRANCH BEFORE I LOAD IT INTO THE MASTER"
 
 theme = "hugo-coder"
 
